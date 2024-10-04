@@ -1,5 +1,5 @@
 A simple static website.
-To run this app clone this repositories and then run these commands:
+To run this app clone this repository and then run these commands:
 
 ```bash
 npm i
